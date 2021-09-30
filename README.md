@@ -26,13 +26,13 @@ Purpose of this project to deliver,
 
 The Theater Outcomes based on Launch Date chart shows the graphical representation of data about campaigns successful, failed and calceled based on months. 
 
-https://github.com/rachanamule/kickstarter-analysis/blob/1e2f1d7590f01b74434f470917f00b5b7bf58d33/resources/Theater_Outcomes_vs_Launch.png
+![Theater outcome based on Launch Date](https://github.com/rachanamule/kickstarter-analysis/blob/1e2f1d7590f01b74434f470917f00b5b7bf58d33/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
 The Outcomes based on Goals chart shows graphical representation of data about percentage outcoms vs goal amount on campaign those are successful, failed and canceled. 
 
-https://github.com/rachanamule/kickstarter-analysis/blob/1e2f1d7590f01b74434f470917f00b5b7bf58d33/resources/Outcomes_vs_Goals.png
+![Outcome Based on Goal](https://github.com/rachanamule/kickstarter-analysis/blob/1e2f1d7590f01b74434f470917f00b5b7bf58d33/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
